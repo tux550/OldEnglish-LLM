@@ -3,6 +3,8 @@
 ## Demo 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tux550/OldEnglish-LLM/blob/main/demo.ipynb)
 
+## Preprocessing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tux550/OldEnglish-LLM/blob/main/preprocessing.ipynb)
 
 ## Train
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tux550/OldEnglish-LLM/blob/main/train.ipynb)
